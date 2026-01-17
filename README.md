@@ -1,8 +1,3 @@
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 # MyTIL
 Welcome to my logbook, my TIL (Today I Learned) repository!
 
@@ -14,19 +9,19 @@ Explore the vast ocean of IT in a consistent yet sustainable way, exploring diff
 
 ## My roadmap for the next 3 months:
 ### Month 1: Automation & Backend (python)
-- [] Python basics (variables, loops, functions)
-- [] Working with APIs
-- [] **end-month project:** An automation bot
+-  Python basics (variables, loops, functions)
+-  Working with APIs
+-  **end-month project:** An automation bot
 
 ### Month 2: Web development (frontend)
-- [] HTML5 & CSS3 fundamentals
-- [] UI/UX design principles
-- [] **end-month project:** A personal "Linktree-style" landing page hosted on Github Pages
+-  HTML5 & CSS3 fundamentals
+-  UI/UX design principles
+-  **end-month project:** A personal "Linktree-style" landing page hosted on Github Pages
 
 ### Month 3: Systems & Security (Linux & Terminal)
-- [] Linux terminal navigation
-- [] Basic shell scripting
-- [] **Challenge:** Complete the first 10 levels of *OverTheWire: Bandit*
+-  Linux terminal navigation
+-  Basic shell scripting
+- **Challenge:** Complete the first 10 levels of *OverTheWire: Bandit*
 
 ---
 
