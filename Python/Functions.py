@@ -42,19 +42,24 @@ Those are like a library of functions (a function squared), with multiple possib
 Here a code I made:
 '''
 
-class BotConfig: # In this way everything is setted
-    def __init__(self, name, version, creator):
+class BotConfig:
+    def __init__(self, name, version, creator): # def __init__ it's like a section to store data in subvariables of 'self', all data got from the line where you call the class
         self.name = name
         self.version = version
         self.creator = creator
 
-    def get_info(self): # A function that prints the given info
+    def get_info(self): # A function that prints the given info, here remember to just put 'self' in the arguments, It took a lot to me to fix that
         print("---------BOT INFO---------")
         print(f"Name: {self.name}")
         print(f"Version: {self.version}")
         print(f"Creator: {self.creator}")
         print("--------------------------")
 
-bot = BotConfig("PyBots", "1.2.4", "Mark")
+bot = BotConfig("PyBot", "1.2.4", "Mark")
 
 bot.get_info()
+
+'''
+I got all the basics for Python now, I'll spend the next days starting to analyze some code like in discord.py (maybe easier files or some Python exercise online)
+So I can find new things to learn and I'll try to comprehend the code, line by line!
+'''
