@@ -11,7 +11,7 @@ Explore the vast ocean of IT in a consistent yet sustainable way, exploring diff
 ### Month 1: Automation & Backend (python)
 -  Python basics (variables, loops, functions)
 -  Working with APIs
--  **end-month project:** An automation bot
+-  **end-month project:** An automated bot on Discord
 
 ### Month 2: Web development (frontend)
 -  HTML5 & CSS3 fundamentals
