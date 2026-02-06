@@ -1,3 +1,7 @@
+'''
+DAY 14: Exercise
+'''
+
 from datetime import datetime
 import HomeworksAssignment
 import dotenv, os
