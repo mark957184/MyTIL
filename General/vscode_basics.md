@@ -1,5 +1,5 @@
 # VS code basics
-For these 3 months i'm going to use VS code to learn everything in my roadmap. VS code is a accessible and open-source code editor created by Microsoft. 
+For these 3 months i'm going to use VS code to learn everything in my roadmap. VS code is an accessible and open-source code editor created by Microsoft. 
 As VS code is probably one of the most user friendly code editor you could find, it's pretty easy to understand the interface and all mechanisms, anyway those are the most important concepts:
 -  Setup;
 -  File managing;
