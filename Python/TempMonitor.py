@@ -73,3 +73,7 @@ root.mainloop()
 
 
 # unfortunately the always-on-top functionality is not considered in subsystems like Debian in WSL, but in the raspberry it will work gracefully
+
+'''
+Connections with Git makes everything easier, so I can modify the code from the raspberry and push the changes to Github, the code works perfectly and it's very useful especially for now that my raspberry doesn't have a cooling system
+'''
