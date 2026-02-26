@@ -36,6 +36,8 @@ learning_rate = 0.1
 
 # Training
 for epoch in range(20000):
+    if epoch % 1000 == 0:
+        learning_rate *= 0.5 # Decay learning rate every 1000 epochs
     # Forward pass
     z1 = np.dot(X, W1) + b1 
     a1 = relu(z1) # 4 hidden neurons output
