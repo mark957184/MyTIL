@@ -9,7 +9,7 @@ costs = [20, 50, 55, 80, 45, 75, 10]
 
 for x in costs:
     if x >= 50:
-        x * 0.9
+        x *= 0.9
         print(x) # Prints 45.0, 49.5, 72.0, 67.5
 
 
