@@ -5,9 +5,9 @@ It's used to separate code to make it easier to debug too
 Here some code I made (with the class I made yesterday as config.py file):
 '''
 
-import Functions # This imports everything from the file, PS: I wrote import 'Functions' because the name of the file was 'Functions'
+import FunctionsAndClasses # This imports everything from the file, PS: I wrote import 'Functions' because the name of the file was 'Functions'
 
-from Functions import BotConfig # In this way I imported just the class 'BotConfig' inside 'Functions' file
+from FunctionsAndClasses import BotConfig # In this way I imported just the class 'BotConfig' inside 'Functions' file
 
 bot1 = BotConfig("PyBot", "1.2.5", "Mark")
 bot1.get_info()
